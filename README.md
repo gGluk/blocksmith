@@ -1,5 +1,5 @@
 # blocksmith
-The goal of this library is to generate private keys and create Bitcoin and Ethereum wallet addresses from them.
+The goal of this library is to generate private keys and create Bitcoin wallet addresses from them.
 
 ```
 pip install blocksmith
